@@ -22,6 +22,7 @@
 		BE511FEE198ACFE30096C2F4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BE511FEC198ACFE30096C2F4 /* InfoPlist.strings */; };
 		BE511FF0198ACFE30096C2F4 /* Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BE511FEF198ACFE30096C2F4 /* Git_TestTests.m */; };
 		BE511FFB198AD3920096C2F4 /* MAKTest.m in Sources */ = {isa = PBXBuildFile; fileRef = BE511FFA198AD3920096C2F4 /* MAKTest.m */; };
+		BE511FFE198ADF6F0096C2F4 /* MAKTest2.m in Sources */ = {isa = PBXBuildFile; fileRef = BE511FFD198ADF6F0096C2F4 /* MAKTest2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		BE511FEF198ACFE30096C2F4 /* Git_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_TestTests.m; sourceTree = "<group>"; };
 		BE511FF9198AD3920096C2F4 /* MAKTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MAKTest.h; sourceTree = "<group>"; };
 		BE511FFA198AD3920096C2F4 /* MAKTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MAKTest.m; sourceTree = "<group>"; };
+		BE511FFC198ADF6F0096C2F4 /* MAKTest2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MAKTest2.h; sourceTree = "<group>"; };
+		BE511FFD198ADF6F0096C2F4 /* MAKTest2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MAKTest2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 			children = (
 				BE511FF9198AD3920096C2F4 /* MAKTest.h */,
 				BE511FFA198AD3920096C2F4 /* MAKTest.m */,
+				BE511FFC198ADF6F0096C2F4 /* MAKTest2.h */,
+				BE511FFD198ADF6F0096C2F4 /* MAKTest2.m */,
 				BE511FCA198ACFE20096C2F4 /* Git Test */,
 				BE511FE9198ACFE30096C2F4 /* Git TestTests */,
 				BE511FC3198ACFE20096C2F4 /* Frameworks */,
@@ -255,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE511FFE198ADF6F0096C2F4 /* MAKTest2.m in Sources */,
 				BE511FD5198ACFE20096C2F4 /* MAKAppDelegate.m in Sources */,
 				BE511FFB198AD3920096C2F4 /* MAKTest.m in Sources */,
 				BE511FD1198ACFE20096C2F4 /* main.m in Sources */,
